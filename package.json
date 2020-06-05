@@ -1,0 +1,27 @@
+{
+  "name": "studion-live",
+  "version": "0.0.1",
+  "description": "firts project",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdayvid/studion-live.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Thiago Dayvid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdayvid/studion-live/issues"
+  },
+  "homepage": "https://github.com/tdayvid/studion-live#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
